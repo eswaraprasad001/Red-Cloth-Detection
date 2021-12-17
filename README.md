@@ -21,7 +21,9 @@ Project Folder:  https://drive.google.com/drive/folders/1UKHo8CFlTmGNXqgJkd_q76k
 Project Setup:
  
 Tensorflow CPU environment
+
 $ conda env create -f conda-cpu.yml
+
 $ conda activate yolov4-cpu
  
 Running the app:
