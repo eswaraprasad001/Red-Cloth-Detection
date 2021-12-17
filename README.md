@@ -27,4 +27,5 @@ $ conda env create -f conda-cpu.yml
 $ conda activate yolov4-cpu
  
 Running the app:
-	$ python app.py
+
+$ python app.py
